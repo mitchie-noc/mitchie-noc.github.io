@@ -47,6 +47,17 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/mitchie.noc"
+footer:
+  links:
+    - label: "Linkedin"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/ryan-mitchell-noc/"
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mitchie-noc"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/mitchie.noc"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
