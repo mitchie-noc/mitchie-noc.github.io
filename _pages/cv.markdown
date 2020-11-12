@@ -1,6 +1,7 @@
 ---
 title: CV
 permalink: /cv/
+toc: true
 ---
 
 ## Work Experience
