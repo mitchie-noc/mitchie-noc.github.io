@@ -41,7 +41,7 @@ Awards:
 - Research Based Learning Prize awarded for outstanding performance
 
 ## Publications
-### Effective use of evolutionary computation to parameterize and epidemiological model
+### Effective use of evolutionary computation to parameterize an epidemiological model
 (January 2021)
 
 This paper was submitted as part of [CIBB](https://en.wikipedia.org/wiki/International_Conference_on_Computational_Intelligence_Methods_for_Bioinformatics_and_Biostatistics) 2019. It followed on from my undergraduate dissertation which envolved the construction of
@@ -50,4 +50,4 @@ Genetic algorithms and partical swarm optimization was applied to this model to 
 
 Prediction of gender-neutral vaccination with the tuned model suggests elimination of the virus across vaccinated and cross-protected strains, supporting recent Scottish government policy.
 
-More information can be found [here.](https://dspace.stir.ac.uk/handle/1893/31443#.X6fePCynyEc)
+More information can be found [here.](https://dspace.stir.ac.uk/handle/1893/31443#.X6fePCynyEc)()()()
