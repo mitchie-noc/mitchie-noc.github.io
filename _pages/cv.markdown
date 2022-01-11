@@ -50,4 +50,4 @@ Genetic algorithms and partical swarm optimization was applied to this model to 
 
 Prediction of gender-neutral vaccination with the tuned model suggests elimination of the virus across vaccinated and cross-protected strains, supporting recent Scottish government policy.
 
-More information can be found [here.](https://dspace.stir.ac.uk/handle/1893/31443#.X6fePCynyEc)()()()
+More information can be found [here.](https://dspace.stir.ac.uk/handle/1893/31443#.X6fePCynyEc)
