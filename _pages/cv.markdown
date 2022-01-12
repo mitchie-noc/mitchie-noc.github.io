@@ -36,7 +36,7 @@ Technologies:
 ### University of Stirling
 **1:1 BSc(Hons) Computer Science** (Sep 2015 - Jul 2019)
 Awards:
-- British Computing Society Proze for Excellence in Computing Science
+- British Computing Society Prize for Excellence in Computing Science
 - Computing Science Prize awarded for the best research-based honours project
 - Research Based Learning Prize awarded for outstanding performance
 
